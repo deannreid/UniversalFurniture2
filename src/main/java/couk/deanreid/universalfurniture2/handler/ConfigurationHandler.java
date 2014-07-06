@@ -1,4 +1,4 @@
-package handler;
+package couk.deanreid.universalfurniture2.handler;
 
 import couk.deanreid.universalfurniture2.lib.Reference;
 import cpw.mods.fml.client.event.ConfigChangedEvent;
