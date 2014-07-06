@@ -2,7 +2,7 @@ package couk.deanreid.universalfurniture2.gui;
 
 import couk.deanreid.universalfurniture2.lib.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
-import handler.ConfigurationHandler;
+import couk.deanreid.universalfurniture2.handler.ConfigurationHandler;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
